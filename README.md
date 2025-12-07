@@ -1,2 +1,2 @@
-# LatihanMembuatSkorPertandingan-JavaScript
-Belajar Membuat Skor Pertandingan Menggunakan Java Script
+# Match Score Making Practice-JavaScript
+Learn to Create Match Scores Using Java Script
